@@ -1,5 +1,5 @@
 
-![Tic Tac Toe]([https://github.com/catherineisonline/tic-tac-toe/blob/main/src/assets/images/project-preview.png?raw=true](https://github.com/catherineisonline/tic-tac-toe/blob/main/src/assets/images/project-preview.png?raw=true))
+![Tic Tac Toe](https://github.com/priyansh7124/Tic-Tac-Toe/blob/main/src/assets/images/project-preview.png)
 # Tic Tac Toe
 
 
